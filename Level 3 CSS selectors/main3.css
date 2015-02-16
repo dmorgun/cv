@@ -67,12 +67,26 @@ ol {
 .content-section {
     padding: 15px;
     width: 450px;
+    margin: 0 auto;
 }
 .album {
     border: 2px dashed #bbbbbb;
     padding: 5px 10px 5px 10px;
     margin-bottom: 5px;
 }
-.content-section {
-    margin: 0 auto 0 auto;
+.bands-list h3 {
+    margin: 0;
+    border-bottom: 0;
+
+}
+.bands-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.bands-list a {
+    text-decoration: none;
+    color: #ff2244
+}
+.bands-list li {
+    border: 1px solid #555555;
 }
