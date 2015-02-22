@@ -52,12 +52,14 @@ li {
 }
 .head{
     background-color: #ffffff;
+    background: lightyellow url(header-background.jpg) top left repeat;
+
 }
 /*resize photo*/
 .head img{
     width: 30%;
     float: center;
-    /*padding-right: 10px;*/
+    padding: 5px;
 }
 .content {
     background-color: #dcfdff;
