@@ -53,6 +53,7 @@ li {
 .head{
     background-color: #ffffff;
     background: lightyellow url(header-background.jpg) top left repeat;
+    background-size: 100%;
 
 }
 /*resize photo*/
