@@ -8,7 +8,7 @@ html, body, h1, h2, h3, h4, h5, ul, ol, li, p, a {
 body {
     width: 650px;
     margin: 0 auto;
-    background: lightyellow url(background.gif) top left repeat;
+    background: lightyellow url(flowers-background.jpg) top left repeat;
     font-family: Helvetica, Arial, sans-serif;
     padding: 10px;
 }
@@ -64,7 +64,7 @@ li {
 }
 .content {
     background-color: #dcfdff;
-    padding: 15px;
+    padding: 10px 15px 15px 15px;
     margin: 0 0 15px 0;
 }
 .description {
